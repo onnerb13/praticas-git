@@ -1,1 +1,2 @@
 01 - git init (comando para iniciar um repositorio local(dentro do seu pc))
+02 - git commit -m (comando para fazer um comentario e atualizar a versao do arquivo comentado)
